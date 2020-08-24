@@ -1,0 +1,1 @@
+insert into Alien values(102, 'Parisha');
